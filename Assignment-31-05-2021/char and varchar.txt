@@ -44,7 +44,7 @@ mysql> select length(dept) from charvarchar;
 +--------------+
 | length(dept) |
 +--------------+
-|            5 |
-|            5 |
+|            2 |
+|            3 |
 +--------------+
 2 rows in set (0.00 sec)
